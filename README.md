@@ -1,1 +1,2 @@
 # ConversorDeMonedas
+Es un sistema de conversor de monedas que le permite al usuario realizar una conversión de cualquier moneda que desee por medio de los código de divisa(USD, CRC, RBL, ARS). El usuario deberá indicar el código de divisa inicial, así como el código de divisa al que lo desea convertir y el monto. El usuario obtendrá los siguientes datos: fecha de la operación actual, divisa inicial, divisa a convertir, tasa de conversión y el resultado de la conversión.
